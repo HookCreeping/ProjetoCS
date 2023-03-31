@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\bin\Debug\net7.0\atividade3_triangulo.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\bin\Debug\net7.0\atividade3_triangulo.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\bin\Debug\net7.0\atividade3_triangulo.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\bin\Debug\net7.0\atividade3_triangulo.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\bin\Debug\net7.0\atividade3_triangulo.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\refint\atividade3_triangulo.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\atividade3_triangulo.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade3_triangulo\obj\Debug\net7.0\ref\atividade3_triangulo.dll

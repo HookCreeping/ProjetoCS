@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\bin\Debug\net7.0\atividade4_senha.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\bin\Debug\net7.0\atividade4_senha.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\bin\Debug\net7.0\atividade4_senha.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\bin\Debug\net7.0\atividade4_senha.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\bin\Debug\net7.0\atividade4_senha.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\refint\atividade4_senha.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\atividade4_senha.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade4_senha\obj\Debug\net7.0\ref\atividade4_senha.dll

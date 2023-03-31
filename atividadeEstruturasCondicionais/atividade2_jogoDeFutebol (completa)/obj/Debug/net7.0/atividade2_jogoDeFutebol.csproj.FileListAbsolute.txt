@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\bin\Debug\net7.0\atividade2_jogoDeFutebol.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\bin\Debug\net7.0\atividade2_jogoDeFutebol.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\bin\Debug\net7.0\atividade2_jogoDeFutebol.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\bin\Debug\net7.0\atividade2_jogoDeFutebol.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\bin\Debug\net7.0\atividade2_jogoDeFutebol.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\refint\atividade2_jogoDeFutebol.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\atividade2_jogoDeFutebol.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade2_jogoDeFutebol\obj\Debug\net7.0\ref\atividade2_jogoDeFutebol.dll

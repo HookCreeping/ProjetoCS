@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\bin\Debug\net7.0\atividade5_maças.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\bin\Debug\net7.0\atividade5_maças.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\bin\Debug\net7.0\atividade5_maças.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\bin\Debug\net7.0\atividade5_maças.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\bin\Debug\net7.0\atividade5_maças.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\refint\atividade5_maças.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\atividade5_maças.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade5_maças\obj\Debug\net7.0\ref\atividade5_maças.dll

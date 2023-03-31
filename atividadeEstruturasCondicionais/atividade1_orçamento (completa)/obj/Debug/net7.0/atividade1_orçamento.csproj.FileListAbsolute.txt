@@ -1,0 +1,30 @@
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\bin\Debug\net7.0\atividade1_orçamento.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\bin\Debug\net7.0\atividade1_orçamento.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\bin\Debug\net7.0\atividade1_orçamento.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\bin\Debug\net7.0\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\bin\Debug\net7.0\atividade1_orçamento.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\refint\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\atividade1_orçamento.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento\obj\Debug\net7.0\ref\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\bin\Debug\net7.0\atividade1_orçamento.exe
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\bin\Debug\net7.0\atividade1_orçamento.deps.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\bin\Debug\net7.0\atividade1_orçamento.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\bin\Debug\net7.0\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\bin\Debug\net7.0\atividade1_orçamento.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\refint\atividade1_orçamento.dll
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.pdb
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\atividade1_orçamento.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeEstruturasCondicionais\atividade1_orçamento (completa)\obj\Debug\net7.0\ref\atividade1_orçamento.dll
