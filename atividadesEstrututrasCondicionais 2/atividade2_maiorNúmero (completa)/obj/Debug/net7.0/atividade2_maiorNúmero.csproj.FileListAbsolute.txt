@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\bin\Debug\net7.0\atividade2_maiorNúmero.exe
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\bin\Debug\net7.0\atividade2_maiorNúmero.deps.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\bin\Debug\net7.0\atividade2_maiorNúmero.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\bin\Debug\net7.0\atividade2_maiorNúmero.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\bin\Debug\net7.0\atividade2_maiorNúmero.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\refint\atividade2_maiorNúmero.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\atividade2_maiorNúmero.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade2_maiorNúmero\obj\Debug\net7.0\ref\atividade2_maiorNúmero.dll

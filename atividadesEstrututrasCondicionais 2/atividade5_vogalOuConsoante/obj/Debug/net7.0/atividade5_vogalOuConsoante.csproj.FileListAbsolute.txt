@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\bin\Debug\net7.0\atividade5_vogalOuConsoante.exe
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\bin\Debug\net7.0\atividade5_vogalOuConsoante.deps.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\bin\Debug\net7.0\atividade5_vogalOuConsoante.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\bin\Debug\net7.0\atividade5_vogalOuConsoante.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\bin\Debug\net7.0\atividade5_vogalOuConsoante.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\refint\atividade5_vogalOuConsoante.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\atividade5_vogalOuConsoante.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade5_vogalOuConsoante\obj\Debug\net7.0\ref\atividade5_vogalOuConsoante.dll

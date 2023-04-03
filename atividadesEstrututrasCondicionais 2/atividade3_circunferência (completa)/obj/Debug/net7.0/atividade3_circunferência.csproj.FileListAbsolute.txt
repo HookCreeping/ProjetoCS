@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\bin\Debug\net7.0\atividade3_circunferência.exe
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\bin\Debug\net7.0\atividade3_circunferência.deps.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\bin\Debug\net7.0\atividade3_circunferência.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\bin\Debug\net7.0\atividade3_circunferência.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\bin\Debug\net7.0\atividade3_circunferência.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\refint\atividade3_circunferência.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\atividade3_circunferência.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade3_circunferência\obj\Debug\net7.0\ref\atividade3_circunferência.dll

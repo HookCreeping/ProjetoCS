@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\bin\Debug\net7.0\atividade4_suspeito.exe
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\bin\Debug\net7.0\atividade4_suspeito.deps.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\bin\Debug\net7.0\atividade4_suspeito.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\bin\Debug\net7.0\atividade4_suspeito.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\bin\Debug\net7.0\atividade4_suspeito.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\refint\atividade4_suspeito.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\atividade4_suspeito.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade4_suspeito\obj\Debug\net7.0\ref\atividade4_suspeito.dll

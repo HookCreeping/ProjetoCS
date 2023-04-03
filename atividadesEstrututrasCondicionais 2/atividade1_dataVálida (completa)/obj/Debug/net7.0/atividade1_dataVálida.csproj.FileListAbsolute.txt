@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\bin\Debug\net7.0\atividade1_dataVálida.exe
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\bin\Debug\net7.0\atividade1_dataVálida.deps.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\bin\Debug\net7.0\atividade1_dataVálida.runtimeconfig.json
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\bin\Debug\net7.0\atividade1_dataVálida.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\bin\Debug\net7.0\atividade1_dataVálida.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\refint\atividade1_dataVálida.dll
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.pdb
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\atividade1_dataVálida.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\atividadeCS\atividadesEstrututrasCondicionais 2\atividade1_dataVálida\obj\Debug\net7.0\ref\atividade1_dataVálida.dll
