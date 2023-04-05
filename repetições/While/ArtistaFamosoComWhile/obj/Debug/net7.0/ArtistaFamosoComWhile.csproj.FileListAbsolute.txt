@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\bin\Debug\net7.0\ArtistaFamosoComWhile.exe
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\bin\Debug\net7.0\ArtistaFamosoComWhile.deps.json
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\bin\Debug\net7.0\ArtistaFamosoComWhile.runtimeconfig.json
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\bin\Debug\net7.0\ArtistaFamosoComWhile.dll
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\bin\Debug\net7.0\ArtistaFamosoComWhile.pdb
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.dll
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\refint\ArtistaFamosoComWhile.dll
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.pdb
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ArtistaFamosoComWhile.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ArtistaFamosoComWhile\obj\Debug\net7.0\ref\ArtistaFamosoComWhile.dll

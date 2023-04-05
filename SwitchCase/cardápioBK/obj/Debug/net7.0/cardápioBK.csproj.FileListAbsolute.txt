@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\bin\Debug\net7.0\cardápioBK.exe
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\bin\Debug\net7.0\cardápioBK.deps.json
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\bin\Debug\net7.0\cardápioBK.runtimeconfig.json
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\bin\Debug\net7.0\cardápioBK.dll
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\bin\Debug\net7.0\cardápioBK.pdb
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.dll
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\refint\cardápioBK.dll
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.pdb
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\cardápioBK.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\SwitchCase\cardápioBK\obj\Debug\net7.0\ref\cardápioBK.dll

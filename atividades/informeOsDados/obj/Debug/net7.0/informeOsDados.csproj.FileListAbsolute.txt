@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\informeOsDados\bin\Debug\net7.0\informeOsDados.exe
+C:\Users\54454818835\Desktop\informeOsDados\bin\Debug\net7.0\informeOsDados.deps.json
+C:\Users\54454818835\Desktop\informeOsDados\bin\Debug\net7.0\informeOsDados.runtimeconfig.json
+C:\Users\54454818835\Desktop\informeOsDados\bin\Debug\net7.0\informeOsDados.dll
+C:\Users\54454818835\Desktop\informeOsDados\bin\Debug\net7.0\informeOsDados.pdb
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.dll
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\refint\informeOsDados.dll
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.pdb
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\informeOsDados.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\informeOsDados\obj\Debug\net7.0\ref\informeOsDados.dll
