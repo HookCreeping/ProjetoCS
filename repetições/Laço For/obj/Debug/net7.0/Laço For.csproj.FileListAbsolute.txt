@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\Laço For\bin\Debug\net7.0\Laço For.exe
+C:\Users\54454818835\Desktop\Laço For\bin\Debug\net7.0\Laço For.deps.json
+C:\Users\54454818835\Desktop\Laço For\bin\Debug\net7.0\Laço For.runtimeconfig.json
+C:\Users\54454818835\Desktop\Laço For\bin\Debug\net7.0\Laço For.dll
+C:\Users\54454818835\Desktop\Laço For\bin\Debug\net7.0\Laço For.pdb
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.dll
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\refint\Laço For.dll
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.pdb
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\Laço For.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\Laço For\obj\Debug\net7.0\ref\Laço For.dll
