@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\bin\Debug\net7.0\atividade2_user&Senha.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\bin\Debug\net7.0\atividade2_user&Senha.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\bin\Debug\net7.0\atividade2_user&Senha.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\bin\Debug\net7.0\atividade2_user&Senha.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\bin\Debug\net7.0\atividade2_user&Senha.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\refint\atividade2_user&Senha.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\atividade2_user&Senha.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade2_user&Senha\obj\Debug\net7.0\ref\atividade2_user&Senha.dll

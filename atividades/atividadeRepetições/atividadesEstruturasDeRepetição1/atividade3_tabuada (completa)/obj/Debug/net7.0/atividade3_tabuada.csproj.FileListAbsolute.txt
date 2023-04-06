@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\bin\Debug\net7.0\atividade3_tabuada.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\bin\Debug\net7.0\atividade3_tabuada.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\bin\Debug\net7.0\atividade3_tabuada.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\bin\Debug\net7.0\atividade3_tabuada.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\bin\Debug\net7.0\atividade3_tabuada.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\refint\atividade3_tabuada.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\atividade3_tabuada.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade3_tabuada\obj\Debug\net7.0\ref\atividade3_tabuada.dll

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\bin\Debug\net7.0\atividade1_nota0a10.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\bin\Debug\net7.0\atividade1_nota0a10.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\bin\Debug\net7.0\atividade1_nota0a10.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\bin\Debug\net7.0\atividade1_nota0a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\bin\Debug\net7.0\atividade1_nota0a10.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\refint\atividade1_nota0a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\atividade1_nota0a10.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade1_nota0a10\obj\Debug\net7.0\ref\atividade1_nota0a10.dll
