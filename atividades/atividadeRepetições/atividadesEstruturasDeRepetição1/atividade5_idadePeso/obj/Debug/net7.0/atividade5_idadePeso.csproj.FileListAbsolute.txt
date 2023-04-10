@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\bin\Debug\net7.0\atividade5_idadePeso.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\bin\Debug\net7.0\atividade5_idadePeso.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\bin\Debug\net7.0\atividade5_idadePeso.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\bin\Debug\net7.0\atividade5_idadePeso.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\bin\Debug\net7.0\atividade5_idadePeso.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\refint\atividade5_idadePeso.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\atividade5_idadePeso.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeRepetições\atividadesEstruturasDeRepetição1\atividade5_idadePeso\obj\Debug\net7.0\ref\atividade5_idadePeso.dll
