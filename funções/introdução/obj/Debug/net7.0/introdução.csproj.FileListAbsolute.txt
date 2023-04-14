@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\bin\Debug\net7.0\introdução.exe
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\bin\Debug\net7.0\introdução.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\bin\Debug\net7.0\introdução.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\bin\Debug\net7.0\introdução.dll
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\bin\Debug\net7.0\introdução.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.dll
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\refint\introdução.dll
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\introdução.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\funções\introdução\obj\Debug\net7.0\ref\introdução.dll

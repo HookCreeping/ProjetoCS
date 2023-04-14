@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\bin\Debug\net7.0\cálculoDeIR.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\bin\Debug\net7.0\cálculoDeIR.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\bin\Debug\net7.0\cálculoDeIR.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\bin\Debug\net7.0\cálculoDeIR.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\bin\Debug\net7.0\cálculoDeIR.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\refint\cálculoDeIR.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\cálculoDeIR.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeFunçoes_Metodos\cálculoDeIR\obj\Debug\net7.0\ref\cálculoDeIR.dll

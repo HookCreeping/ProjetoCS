@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "atividade2_Combustível/1.0.0": {
+        "runtime": {
+          "atividade2_Combustível.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade2_Combustível/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

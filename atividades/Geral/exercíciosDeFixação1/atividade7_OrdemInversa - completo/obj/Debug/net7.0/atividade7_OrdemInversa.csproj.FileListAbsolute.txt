@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\bin\Debug\net7.0\atividade7_OrdemInversa.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\bin\Debug\net7.0\atividade7_OrdemInversa.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\bin\Debug\net7.0\atividade7_OrdemInversa.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\bin\Debug\net7.0\atividade7_OrdemInversa.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\bin\Debug\net7.0\atividade7_OrdemInversa.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\refint\atividade7_OrdemInversa.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\atividade7_OrdemInversa.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade7_OrdemInversa\obj\Debug\net7.0\ref\atividade7_OrdemInversa.dll

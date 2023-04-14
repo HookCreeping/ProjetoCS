@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\bin\Debug\net7.0\atividade4_MaiorValor.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\bin\Debug\net7.0\atividade4_MaiorValor.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\bin\Debug\net7.0\atividade4_MaiorValor.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\bin\Debug\net7.0\atividade4_MaiorValor.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\bin\Debug\net7.0\atividade4_MaiorValor.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\refint\atividade4_MaiorValor.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\atividade4_MaiorValor.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade4_MaiorValor\obj\Debug\net7.0\ref\atividade4_MaiorValor.dll

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\bin\Debug\net7.0\atividade2_Combustível.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\bin\Debug\net7.0\atividade2_Combustível.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\bin\Debug\net7.0\atividade2_Combustível.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\bin\Debug\net7.0\atividade2_Combustível.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\bin\Debug\net7.0\atividade2_Combustível.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\refint\atividade2_Combustível.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\atividade2_Combustível.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade2_Combustível\obj\Debug\net7.0\ref\atividade2_Combustível.dll

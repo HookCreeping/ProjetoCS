@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercícioDeFixação1_nomeIdade/1.0.0": {
+        "runtime": {
+          "exercícioDeFixação1_nomeIdade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercícioDeFixação1_nomeIdade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\bin\Debug\net7.0\atividade3_Desconto.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\bin\Debug\net7.0\atividade3_Desconto.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\bin\Debug\net7.0\atividade3_Desconto.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\bin\Debug\net7.0\atividade3_Desconto.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\bin\Debug\net7.0\atividade3_Desconto.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\refint\atividade3_Desconto.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\atividade3_Desconto.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade3_Desconto\obj\Debug\net7.0\ref\atividade3_Desconto.dll

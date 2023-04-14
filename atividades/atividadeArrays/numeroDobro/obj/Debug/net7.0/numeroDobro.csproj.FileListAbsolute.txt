@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\bin\Debug\net7.0\numeroDobro.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\bin\Debug\net7.0\numeroDobro.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\bin\Debug\net7.0\numeroDobro.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\bin\Debug\net7.0\numeroDobro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\bin\Debug\net7.0\numeroDobro.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\refint\numeroDobro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\numeroDobro.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\numeroDobro\obj\Debug\net7.0\ref\numeroDobro.dll

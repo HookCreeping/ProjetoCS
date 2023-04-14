@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\bin\Debug\net7.0\atividade5_Tabuada1a10.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\bin\Debug\net7.0\atividade5_Tabuada1a10.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\bin\Debug\net7.0\atividade5_Tabuada1a10.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\bin\Debug\net7.0\atividade5_Tabuada1a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\bin\Debug\net7.0\atividade5_Tabuada1a10.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\refint\atividade5_Tabuada1a10.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\atividade5_Tabuada1a10.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade5_Tabuada1a10\obj\Debug\net7.0\ref\atividade5_Tabuada1a10.dll

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\bin\Debug\net7.0\Desafio1_parImpar.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\bin\Debug\net7.0\Desafio1_parImpar.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\bin\Debug\net7.0\Desafio1_parImpar.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\bin\Debug\net7.0\Desafio1_parImpar.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\bin\Debug\net7.0\Desafio1_parImpar.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\refint\Desafio1_parImpar.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\Desafio1_parImpar.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\Desafio1_parImpar\obj\Debug\net7.0\ref\Desafio1_parImpar.dll

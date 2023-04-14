@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\bin\Debug\net7.0\atividade6_NomeAchado.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\bin\Debug\net7.0\atividade6_NomeAchado.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\bin\Debug\net7.0\atividade6_NomeAchado.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\bin\Debug\net7.0\atividade6_NomeAchado.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\bin\Debug\net7.0\atividade6_NomeAchado.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\refint\atividade6_NomeAchado.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\atividade6_NomeAchado.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade6_NomeAchado\obj\Debug\net7.0\ref\atividade6_NomeAchado.dll

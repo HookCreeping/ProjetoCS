@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\bin\Debug\net7.0\atividade1_AnoVotação.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\bin\Debug\net7.0\atividade1_AnoVotação.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\bin\Debug\net7.0\atividade1_AnoVotação.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\bin\Debug\net7.0\atividade1_AnoVotação.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\bin\Debug\net7.0\atividade1_AnoVotação.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\refint\atividade1_AnoVotação.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\atividade1_AnoVotação.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\exercíciosDeFixação1\atividade1_AnoVotação\obj\Debug\net7.0\ref\atividade1_AnoVotação.dll

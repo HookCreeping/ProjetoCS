@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\bin\Debug\net7.0\exercícioDeFixação1_nomeIdade.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\bin\Debug\net7.0\exercícioDeFixação1_nomeIdade.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\bin\Debug\net7.0\exercícioDeFixação1_nomeIdade.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\bin\Debug\net7.0\exercícioDeFixação1_nomeIdade.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\bin\Debug\net7.0\exercícioDeFixação1_nomeIdade.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\refint\exercícioDeFixação1_nomeIdade.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\exercícioDeFixação1_nomeIdade.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\atividadeArrays\exercícioDeFixação1_nomeIdade\obj\Debug\net7.0\ref\exercícioDeFixação1_nomeIdade.dll
