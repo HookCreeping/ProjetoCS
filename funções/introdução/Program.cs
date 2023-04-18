@@ -38,3 +38,12 @@ static string ReturnExemplo() {
     
     ";
 }
+
+
+
+//estrutura de uma função:
+
+//tipo tipoDado nomeFuncao(parametros/argumentos) 
+{
+    //corpo da função
+}

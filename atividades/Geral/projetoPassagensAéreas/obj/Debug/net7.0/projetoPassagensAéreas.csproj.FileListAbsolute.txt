@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\bin\Debug\net7.0\projetoPassagensAéreas.exe
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\bin\Debug\net7.0\projetoPassagensAéreas.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\bin\Debug\net7.0\projetoPassagensAéreas.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\bin\Debug\net7.0\projetoPassagensAéreas.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\bin\Debug\net7.0\projetoPassagensAéreas.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\refint\projetoPassagensAéreas.dll
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\projetoPassagensAéreas.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\atividades\Geral\projetoPassagensAéreas\obj\Debug\net7.0\ref\projetoPassagensAéreas.dll
