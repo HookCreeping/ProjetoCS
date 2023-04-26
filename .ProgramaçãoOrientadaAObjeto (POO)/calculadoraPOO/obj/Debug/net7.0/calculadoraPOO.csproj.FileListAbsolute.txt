@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\bin\Debug\net7.0\calculadoraPOO.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\bin\Debug\net7.0\calculadoraPOO.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\bin\Debug\net7.0\calculadoraPOO.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\bin\Debug\net7.0\calculadoraPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\bin\Debug\net7.0\calculadoraPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\refint\calculadoraPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\calculadoraPOO.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\calculadoraPOO\obj\Debug\net7.0\ref\calculadoraPOO.dll

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\bin\Debug\net7.0\introduçãoAoPOO.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\bin\Debug\net7.0\introduçãoAoPOO.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\bin\Debug\net7.0\introduçãoAoPOO.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\bin\Debug\net7.0\introduçãoAoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\bin\Debug\net7.0\introduçãoAoPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\refint\introduçãoAoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\introduçãoAoPOO.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\introduçãoAoPOO\obj\Debug\net7.0\ref\introduçãoAoPOO.dll

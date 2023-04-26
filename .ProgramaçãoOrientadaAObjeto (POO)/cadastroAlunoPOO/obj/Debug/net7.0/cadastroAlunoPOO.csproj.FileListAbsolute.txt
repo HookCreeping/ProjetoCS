@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\bin\Debug\net7.0\cadastroAlunoPOO.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\bin\Debug\net7.0\cadastroAlunoPOO.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\bin\Debug\net7.0\cadastroAlunoPOO.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\bin\Debug\net7.0\cadastroAlunoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\bin\Debug\net7.0\cadastroAlunoPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\refint\cadastroAlunoPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\cadastroAlunoPOO.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\cadastroAlunoPOO\obj\Debug\net7.0\ref\cadastroAlunoPOO.dll

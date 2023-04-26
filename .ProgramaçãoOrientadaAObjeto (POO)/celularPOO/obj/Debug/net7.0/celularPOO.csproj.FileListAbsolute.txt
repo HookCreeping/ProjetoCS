@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\bin\Debug\net7.0\celularPOO.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\bin\Debug\net7.0\celularPOO.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\bin\Debug\net7.0\celularPOO.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\bin\Debug\net7.0\celularPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\bin\Debug\net7.0\celularPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\refint\celularPOO.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\celularPOO.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\celularPOO\obj\Debug\net7.0\ref\celularPOO.dll
