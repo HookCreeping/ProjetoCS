@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\bin\Debug\net7.0\Atividade1_Elevador.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\bin\Debug\net7.0\Atividade1_Elevador.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\bin\Debug\net7.0\Atividade1_Elevador.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\bin\Debug\net7.0\Atividade1_Elevador.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\bin\Debug\net7.0\Atividade1_Elevador.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\refint\Atividade1_Elevador.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\Atividade1_Elevador.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade1_Elevador\obj\Debug\net7.0\ref\Atividade1_Elevador.dll

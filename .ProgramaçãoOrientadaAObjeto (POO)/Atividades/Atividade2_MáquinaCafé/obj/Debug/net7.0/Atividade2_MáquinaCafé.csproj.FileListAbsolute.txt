@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\bin\Debug\net7.0\Atividade2_MáquinaCafé.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\bin\Debug\net7.0\Atividade2_MáquinaCafé.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\bin\Debug\net7.0\Atividade2_MáquinaCafé.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\bin\Debug\net7.0\Atividade2_MáquinaCafé.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\bin\Debug\net7.0\Atividade2_MáquinaCafé.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\refint\Atividade2_MáquinaCafé.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\Atividade2_MáquinaCafé.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade2_MáquinaCafé\obj\Debug\net7.0\ref\Atividade2_MáquinaCafé.dll
