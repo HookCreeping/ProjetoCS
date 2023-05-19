@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Desafio - Um contato/1.0.0": {
+        "runtime": {
+          "Desafio - Um contato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio - Um contato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

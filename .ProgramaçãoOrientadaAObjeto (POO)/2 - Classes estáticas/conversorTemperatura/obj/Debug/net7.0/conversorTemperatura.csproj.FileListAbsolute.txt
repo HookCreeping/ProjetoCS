@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\bin\Debug\net7.0\conversorTemperatura.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\bin\Debug\net7.0\conversorTemperatura.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\bin\Debug\net7.0\conversorTemperatura.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\bin\Debug\net7.0\conversorTemperatura.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\bin\Debug\net7.0\conversorTemperatura.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\refint\conversorTemperatura.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\conversorTemperatura.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Intruduções\conversorTemperatura\obj\Debug\net7.0\ref\conversorTemperatura.dll

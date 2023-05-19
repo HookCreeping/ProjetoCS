@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\bin\Debug\net7.0\UmCarro.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\bin\Debug\net7.0\UmCarro.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\bin\Debug\net7.0\UmCarro.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\bin\Debug\net7.0\UmCarro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\bin\Debug\net7.0\UmCarro.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\refint\UmCarro.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\UmCarro.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\UmCarro\obj\Debug\net7.0\ref\UmCarro.dll

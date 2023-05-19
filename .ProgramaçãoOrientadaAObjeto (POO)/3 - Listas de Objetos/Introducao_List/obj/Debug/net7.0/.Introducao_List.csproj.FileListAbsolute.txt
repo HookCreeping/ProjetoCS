@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\bin\Debug\net7.0\.Introducao_List.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\bin\Debug\net7.0\.Introducao_List.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\bin\Debug\net7.0\.Introducao_List.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\bin\Debug\net7.0\.Introducao_List.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\bin\Debug\net7.0\.Introducao_List.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\refint\.Introducao_List.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\.Introducao_List.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\3 - Listas de Objetos\Introducao_List\obj\Debug\net7.0\ref\.Introducao_List.dll

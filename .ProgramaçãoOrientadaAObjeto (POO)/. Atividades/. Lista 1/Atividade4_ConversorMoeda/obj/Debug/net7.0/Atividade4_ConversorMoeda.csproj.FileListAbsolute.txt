@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\bin\Debug\net7.0\Atividade4_ConversorMoeda.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\bin\Debug\net7.0\Atividade4_ConversorMoeda.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\bin\Debug\net7.0\Atividade4_ConversorMoeda.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\bin\Debug\net7.0\Atividade4_ConversorMoeda.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\bin\Debug\net7.0\Atividade4_ConversorMoeda.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\refint\Atividade4_ConversorMoeda.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\Atividade4_ConversorMoeda.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\Atividades\Atividade4_ConversorMoeda\obj\Debug\net7.0\ref\Atividade4_ConversorMoeda.dll

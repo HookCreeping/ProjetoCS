@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\bin\Debug\net7.0\Desafio - Um contato.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\bin\Debug\net7.0\Desafio - Um contato.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\bin\Debug\net7.0\Desafio - Um contato.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\bin\Debug\net7.0\Desafio - Um contato.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\bin\Debug\net7.0\Desafio - Um contato.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\refint\Desafio - Um contato.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\Desafio - Um contato.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio -  AgendaDeContatos\obj\Debug\net7.0\ref\Desafio - Um contato.dll

@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\bin\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.exe
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\bin\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.deps.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\bin\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.runtimeconfig.json
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\bin\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\bin\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\refint\Desafio 2 - ProjetoDeProdutos.dll
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.pdb
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\Desafio 2 - ProjetoDeProdutos.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\ProjetoCS\.ProgramaçãoOrientadaAObjeto (POO)\. Atividades\Desafio 2 - ProjetoDeProdutos\obj\Debug\net7.0\ref\Desafio 2 - ProjetoDeProdutos.dll

@@ -1,0 +1,40 @@
+Listando classes e objetos como se fossem arrays
+
+
+ Alguns métodos para lista
+
+ . Add (T)
+ Adiciona um objeto no List<T> (lista)
+
+ . Clear()
+ Remove todos os elementos do List<T>
+
+ . Contains(T)
+ Determina se um elemento está no List<T>
+
+ Find(Predicate<T>)
+ . Procura um elemento que corresponde a alguma coisa que esteja na 
+ List<T>
+
+ FindIndex(Predicate<T>)
+ . Procura um elemento e retorna um índice baseado em zero na List<T>
+
+ IndexOf(T)
+ . Marca o número do item da lista
+
+ Insert(int32, T)
+
+
+ Remove(T)
+
+
+ RemoveAll(Predicate<T>)
+
+
+ RemoveAt(int32)
+
+
+ Reverse()
+
+
+ Sort()
